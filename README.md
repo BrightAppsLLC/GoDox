@@ -1,4 +1,4 @@
-# Install (based on Arch Linux)
+### Install (based on Arch Linux)
 - `sudo pacman -S go go-tools`
 - `mkdir GoTest`
 - `cd GoTest`
