@@ -1,5 +1,5 @@
 ## ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_label_outline_black_18px.svg) Install
-- `sudo pacman -S go go-tools`
+- `sudo pacman -S go go-tools` for Arch Linux
 - `mkdir GoTest`
 - `cd GoTest`
 - ```export GOPATH=`pwd` ```
